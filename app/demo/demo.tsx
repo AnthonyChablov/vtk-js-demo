@@ -1,3 +1,3 @@
-export function Welcome() {
+export function Demo() {
   return <main className=""></main>;
 }
